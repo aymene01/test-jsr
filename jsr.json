@@ -1,0 +1,5 @@
+{
+  "name": "@aymene01/test",
+  "version": "0.1.0",
+  "exports": "./index.ts"
+}
