@@ -1,1 +1,1 @@
-export const sayHelloJrs = () => "hello from jsr";
+export const sayHelloJrs = () => "hello from france";
